@@ -10,13 +10,11 @@
 
 ## Usage
 
-```md
 ![Screenshot 1](assets/images/Horiseon-webpage-1.png)
-```
 
-```md
+
 ![Screenshot 2](assets/images/Horiseon-webpage-2.png)
-```
+
 
 ## Credits
 
